@@ -1,0 +1,20 @@
+{
+  "name": "TaskFire",
+  "version": "0.0.0",
+  "authors": [
+    "Erik Aybar <erikthedeveloper@gmail.com>"
+  ],
+  "description": "EmberJS Agile TODO Application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.6.1",
+    "ember-data": "~0.0.14"
+  }
+}
