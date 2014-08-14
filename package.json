@@ -1,0 +1,20 @@
+{
+  "name": "agile-todo-emberjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-compass": "^1.2.0",
+    "gulp-concat": "^2.3.4",
+    "gulp-ember-handlebars": "^0.6.0",
+    "gulp-sass": "^0.7.3",
+    "gulp-uglify": "^0.3.1",
+    "gulp-watch": "^0.6.9"
+  }
+}
